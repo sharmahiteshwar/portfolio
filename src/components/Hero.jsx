@@ -46,7 +46,7 @@ const Hero = () => {
         className="z-10 flex flex-col items-center gap-6"
       >
         <img
-          src="public\profile.png"
+          src="/profile.png"
           alt="Hiteshwar"
           className="w-40 h-40 rounded-full border-[4px] border-white shadow-xl"
         />
