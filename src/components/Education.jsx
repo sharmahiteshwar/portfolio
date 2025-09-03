@@ -5,7 +5,7 @@ const education = [
   {
     degree: "B.Tech in Computer Science & Engineering",
     institute: "Lovely Professional University, Punjab",
-    duration: "2019 – 2023",
+    duration: "2020 – 2024",
     score: "CGPA: 7.0",
   },
   {
